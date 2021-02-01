@@ -1,3 +1,0 @@
-Basic Understanding Of Java
-jdk 
-any IDE.
